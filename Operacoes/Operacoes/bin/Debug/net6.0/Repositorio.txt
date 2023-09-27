@@ -1,0 +1,6 @@
+ID: 100, Nome: Augusto, Peso: 12, Altura: 3, Idade: 18, Data de Nascimento: 2/1/2005 12:00:00 AM, Cliente do Consultorio: False
+ID: 300, Nome: Joao, Peso: 34, Altura: 1.6, Idade: 18, Data de Nascimento: 6/6/2005 12:00:00 AM, Cliente do Consultorio: True
+ID: 22, Nome: Gabriela, Peso: 56, Altura: 1.7, Idade: 18, Data de Nascimento: 6/22/2005 12:00:00 AM, Cliente do Consultorio: True
+ID: 2005, Nome: Miguel, Peso: 50, Altura: 2, Idade: 19, Data de Nascimento: 4/4/2004 12:00:00 AM, Cliente do Consultorio: False
+ID: 40, Nome: Ivan, Peso: 67, Altura: 1.9, Idade: 18, Data de Nascimento: 2/1/2005 12:00:00 AM, Cliente do Consultorio: False
+ ID: 300, Nome: Augusto, Peso: 21312, Altura: 321213, Idade: 18, Data de Nascimento: 2/1/2005 12:00:00 AM, Cliente do Consultorio: False 
